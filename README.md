@@ -29,3 +29,6 @@
     
 ## Compilar desde la consola 
     node src/callback/challenge.js
+    
+## Agregar script en el package.json
+    npm run callback
