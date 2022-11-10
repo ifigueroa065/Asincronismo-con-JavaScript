@@ -15,5 +15,11 @@
 ## Editor de código a tiempo real :man_technologist:
     https://codi.link/%7C%7C
 
-## Event loop :heavy_check_mark:
+## Event loop :white_check_mark:
     https://bit.ly/3JT9Mhr
+    
+## Documentación :bookmark_tabs:
+    https://developer.mozilla.org/es/docs/Web/JavaScript
+    
+## Fake Store API :technologist: :green_apple:    
+    https://fakeapi.platzi.com
