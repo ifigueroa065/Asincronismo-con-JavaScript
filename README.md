@@ -26,3 +26,6 @@
     
 ## XMLHTTPRequest
     npm i xmlhttprequest
+    
+## Compilar desde la consola 
+    node src/callback/challenge.js
