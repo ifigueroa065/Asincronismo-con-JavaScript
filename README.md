@@ -23,3 +23,6 @@
     
 ## Fake Store API :technologist: :green_apple:    
     https://fakeapi.platzi.com
+    
+## XMLHTTPRequest
+    npm i xmlhttprequest
