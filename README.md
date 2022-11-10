@@ -1,6 +1,8 @@
 # Asincronismo-con-JavaScript :yellow_heart:
  Apropia los conceptos fundamentales de asincronismo con JavaScript, aplica sus diferentes estructuras y desarrolla soluciones asíncronas. ¡Amplía tus conocimientos de programación creando una landing page!
 
+## Apuntes de clase :green_book:
+    https://luis-ariza.notion.site/Asincronismo-con-JavaScript-7307b668977d416690103a4dbbf2843a
 
 
 ## Objetivos :rocket:
