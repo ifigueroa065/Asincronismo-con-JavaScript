@@ -14,3 +14,6 @@
 
 ## Editor de código a tiempo real :man_technologist:
     https://codi.link/%7C%7C
+
+## Event loop :heavy_check_mark:
+    https://bit.ly/3JT9Mhr
